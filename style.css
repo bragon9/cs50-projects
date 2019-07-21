@@ -1,11 +1,14 @@
 body {
-    background-color: lightslategray
+    background-color: lightslategray;
+    font-size: 12px;
 }
 .nav-item {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 12px;
 } 
 .container {
-    background-color: blanchedalmond
+    background-color: blanchedalmond;
+    backface-visibility: visible;
 }
 @media only screen and (max-width: 600px) {
     body {
